@@ -27,8 +27,10 @@ We propose a circular green economy integrating Lantana removal, forest restorat
 - Manisha Panu
 
 ## Screenshots From Our App
+![WhatsApp Image 2024-07-28 at 7 17 51 AM](https://github.com/user-attachments/assets/76036cb1-3b57-47e2-b131-ac0de9929b80)
 
 ![WhatsApp Image 2024-07-28 at 07 12 18_80fc290a](https://github.com/user-attachments/assets/83b5ae42-c8ba-436d-9414-4bab08298b22)
+![Screenshot 2024-07-28 at 7 13 05 AM](https://github.com/user-attachments/assets/bdb982bf-8b79-482d-a483-f35090d47c6e)
 
 
 ![WhatsApp Image 2024-07-28 at 07 11 57_5f7fe63f](https://github.com/user-attachments/assets/564ddfb0-af8c-48f1-a354-b4f2d74dab86)
